@@ -1,21 +1,21 @@
-# Electricity Price Info
+# Electricity Price Info ⚡⚡
 
 Displays basic black & white charts and raw data for Finland’s electricity price (c/kWh).
 
 Data is fetched live from the Elering API:
 https://dashboard.elering.ee/et
 
-## Tech Stack
+## Tech Stack 🤖
 
 PHP (compatible with older versions)
 
 No external dependencies required
 
-How to Run
+## How to Run 🏃
 
 This project is intended to be served with any web server that supports PHP.
 
-Example setups:
+## Example setups ⚙️:
 
 Apache (recommended, used during development)
 
