@@ -28,3 +28,7 @@ Serve it using any web server that supports PHP.
 - Built-in PHP server (for quick testing):
 
 - php -S localhost:8000 electricity_price_native.php
+
+# Note ❗
+ -This is not fully my product — it was made with the help of AI due to my limited PHP experience (first PHP project btw).
+  But I did understand most of the code, if I do say so myself 😉
