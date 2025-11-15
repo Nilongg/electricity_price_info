@@ -5,7 +5,7 @@ Displays basic black & white charts and raw data for Finland’s electricity pri
 Data is fetched live from the Elering API:
 https://dashboard.elering.ee/et
 
-Tech Stack
+## Tech Stack
 
 PHP (compatible with older versions)
 
