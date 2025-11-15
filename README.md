@@ -13,9 +13,13 @@ https://dashboard.elering.ee/et
 
 ## How to Run 🏃
 
-- This project is intended to be served with any web server that supports PHP.
+The main runnable file is:
 
-### Example setups ⚙️:
+- electricity_price_native.php
+
+Serve it using any web server that supports PHP.
+
+### Example setups ⚙️
 
 - Apache (recommended, used during development)
 
@@ -23,4 +27,4 @@ https://dashboard.elering.ee/et
 
 - Built-in PHP server (for quick testing):
 
-- php -S localhost:8000
+- php -S localhost:8000 electricity_price_native.php
